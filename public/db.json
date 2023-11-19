@@ -1,0 +1,35 @@
+{
+    "quiz":[
+        {
+            "question":"What is react?",
+            "choice":["framework","programing language","sdk","library"],
+            "answer":"library",
+            "id":"1"
+        },
+        {
+            "question":"What is Angular?",
+            "choice":["framework","programing language","sdk","library"],
+            "answer":"framework",
+            "id":"2"
+        },
+        {
+            "question":"What is javascript?",
+            "choice":["framework","programing language","sdk","library"],
+            "answer":"programing language",
+            "id":"3"
+        },
+        {
+            "question":"What is type script?",
+            "choice":["framework","programing language","sdk","library"],
+            "answer":"programing language",
+            "id":"4"
+        },
+        {
+            "question":"What is python django?",
+            "choice":["framework","programing language","sdk","library"],
+            "answer":"framework",
+            "id":"5"
+        }
+
+    ]
+}
